@@ -1,0 +1,373 @@
+{
+  "inverted": false,
+  "segments": [
+    {
+      "end": [
+        200.0,
+        105.0
+      ],
+      "id": 163,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        200.0,
+        86.47059
+      ]
+    },
+    {
+      "end": [
+        234.83871,
+        118.064514
+      ],
+      "id": 164,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        200.0,
+        105.0
+      ]
+    },
+    {
+      "end": [
+        234.83871,
+        118.064514
+      ],
+      "id": 165,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        220.0,
+        170.0
+      ]
+    },
+    {
+      "end": [
+        240.0,
+        190.0
+      ],
+      "id": 166,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        220.0,
+        170.0
+      ]
+    },
+    {
+      "end": [
+        245.0,
+        82.5
+      ],
+      "id": 167,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        200.0,
+        86.47059
+      ]
+    },
+    {
+      "end": [
+        245.0,
+        82.5
+      ],
+      "id": 168,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        234.83871,
+        118.064514
+      ]
+    },
+    {
+      "end": [
+        251.42857,
+        60.0
+      ],
+      "id": 169,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        245.0,
+        82.5
+      ]
+    },
+    {
+      "end": [
+        260.0,
+        170.0
+      ],
+      "id": 170,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        240.0,
+        190.0
+      ]
+    },
+    {
+      "end": [
+        271.53845,
+        60.0
+      ],
+      "id": 171,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        251.42857,
+        60.0
+      ]
+    },
+    {
+      "end": [
+        279.0372,
+        79.49672
+      ],
+      "id": 172,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        271.53845,
+        60.0
+      ]
+    },
+    {
+      "end": [
+        279.0372,
+        79.49672
+      ],
+      "id": 173,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        245.0,
+        82.5
+      ]
+    },
+    {
+      "end": [
+        282.22223,
+        187.77777
+      ],
+      "id": 174,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        260.0,
+        170.0
+      ]
+    },
+    {
+      "end": [
+        303.82022,
+        143.93259
+      ],
+      "id": 175,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        279.0372,
+        79.49672
+      ]
+    },
+    {
+      "end": [
+        303.82022,
+        143.93259
+      ],
+      "id": 176,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        234.83871,
+        118.064514
+      ]
+    },
+    {
+      "end": [
+        310.0,
+        160.0
+      ],
+      "id": 177,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        303.82022,
+        143.93259
+      ]
+    },
+    {
+      "end": [
+        310.0,
+        160.0
+      ],
+      "id": 178,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        282.22223,
+        187.77777
+      ]
+    },
+    {
+      "end": [
+        320.0,
+        150.0
+      ],
+      "id": 179,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        303.82022,
+        143.93259
+      ]
+    },
+    {
+      "end": [
+        425.7143,
+        150.0
+      ],
+      "id": 180,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        320.0,
+        150.0
+      ]
+    },
+    {
+      "end": [
+        460.0,
+        110.0
+      ],
+      "id": 181,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        425.7143,
+        150.0
+      ]
+    },
+    {
+      "end": [
+        460.0,
+        150.0
+      ],
+      "id": 182,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        460.0,
+        110.0
+      ]
+    },
+    {
+      "end": [
+        500.0,
+        60.0
+      ],
+      "id": 183,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        279.0372,
+        79.49672
+      ]
+    },
+    {
+      "end": [
+        500.0,
+        150.0
+      ],
+      "id": 184,
+      "myFill": {
+        "above": true,
+        "below": false
+      },
+      "otherFill": null,
+      "start": [
+        500.0,
+        60.0
+      ]
+    },
+    {
+      "end": [
+        500.0,
+        150.0
+      ],
+      "id": 185,
+      "myFill": {
+        "above": false,
+        "below": true
+      },
+      "otherFill": null,
+      "start": [
+        460.0,
+        150.0
+      ]
+    }
+  ]
+}
